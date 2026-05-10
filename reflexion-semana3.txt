@@ -1,0 +1,6 @@
+permite llevar un control organizado
+de todo lo que se modifica durante el desarrollo.
+ayudan a saber quién hizo cada cambio,cuándo
+se realizó y qué parte del proyecto fue modificada.
+facilita corregir errores, recuperar versiones anteriores
+y trabajar en equipo sin perder información.
